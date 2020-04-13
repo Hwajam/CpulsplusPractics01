@@ -3,4 +3,4 @@ project(cplusplus_test)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cplusplus_test main.cpp)
+add_executable(cplusplus_test main.cpp main2.cpp)
